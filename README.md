@@ -1,1 +1,2 @@
-# siriOS-VPN-Client
+# siriOS-VPN
+Universal VPN Client
